@@ -1,2 +1,2 @@
 # RPL
-Mata Kuliah Rekayasa Perangkat Lunak (RPL)
+Materi Kuliah Rekayasa Perangkat Lunak (RPL)
